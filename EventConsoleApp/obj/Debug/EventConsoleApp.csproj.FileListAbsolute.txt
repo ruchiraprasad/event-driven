@@ -1,0 +1,14 @@
+C:\Users\ruchirap\source\repos\DelegateConsoleApp\EventConsoleApp\bin\Debug\EventConsoleApp.exe.config
+C:\Users\ruchirap\source\repos\DelegateConsoleApp\EventConsoleApp\bin\Debug\EventConsoleApp.exe
+C:\Users\ruchirap\source\repos\DelegateConsoleApp\EventConsoleApp\bin\Debug\EventConsoleApp.pdb
+C:\Users\ruchirap\source\repos\DelegateConsoleApp\EventConsoleApp\obj\Debug\EventConsoleApp.csprojAssemblyReference.cache
+C:\Users\ruchirap\source\repos\DelegateConsoleApp\EventConsoleApp\obj\Debug\EventConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ruchirap\source\repos\DelegateConsoleApp\EventConsoleApp\obj\Debug\EventConsoleApp.exe
+C:\Users\ruchirap\source\repos\DelegateConsoleApp\EventConsoleApp\obj\Debug\EventConsoleApp.pdb
+D:\RND\Architectural Styles and Patterns\DelegateConsoleApp\EventConsoleApp\bin\Debug\EventConsoleApp.exe.config
+D:\RND\Architectural Styles and Patterns\DelegateConsoleApp\EventConsoleApp\bin\Debug\EventConsoleApp.exe
+D:\RND\Architectural Styles and Patterns\DelegateConsoleApp\EventConsoleApp\bin\Debug\EventConsoleApp.pdb
+D:\RND\Architectural Styles and Patterns\DelegateConsoleApp\EventConsoleApp\obj\Debug\EventConsoleApp.csproj.AssemblyReference.cache
+D:\RND\Architectural Styles and Patterns\DelegateConsoleApp\EventConsoleApp\obj\Debug\EventConsoleApp.csproj.CoreCompileInputs.cache
+D:\RND\Architectural Styles and Patterns\DelegateConsoleApp\EventConsoleApp\obj\Debug\EventConsoleApp.exe
+D:\RND\Architectural Styles and Patterns\DelegateConsoleApp\EventConsoleApp\obj\Debug\EventConsoleApp.pdb
